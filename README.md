@@ -36,6 +36,7 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/6dbde1ad-cbe0-48d2-aec2-c76113a4a3d7" width="250">
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/78923ce5-62f1-43b6-94dd-68d708994e07" width="250">
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/6075b2aa-02d4-4b1e-9629-2cf1523c8ea2" width="250">
+<img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/9b3d95df-c8bc-4dcb-bbf9-6346d1f5d42a" width="250">
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/ca148d01-5a47-4f54-9146-ec1f260f92f8" width="250">
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/8abbc25c-c911-4317-8a93-7a96c0a9fdb5" width="250">
 <img src="https://github.com/aarchimaniya/myfestivalpoast_app/assets/128701780/c7acbc5c-3005-48f5-b34b-ef9162f8ed8e" width="250">
