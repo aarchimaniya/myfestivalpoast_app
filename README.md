@@ -5,7 +5,7 @@
 
 - Created solely for learning and understanding purposes, this app employs basic logic to guide developers and enthusiasts through the fundamentals of Flutter, emphasising simplicity in implementation. It is important to note that the application is not intended for production use but - - -encourages users to explore, experiment, and gain a deeper understanding of Flutter's capabilities in building mobile applications.
 
-##Save to Gallery:
+## Save to Gallery:
 - Users can save festival photos, posters, or moments directly to their device's gallery for easy access and offline viewing.
 
 ## Share Any Way:
